@@ -1,0 +1,15 @@
+Sir accessible na po ung 30 thru vpn
+Lahat po ng naka-publish na website sa labas accessible po sa VPN na ito
+Heto po ung credentials sa 30:
+uname: jeff_30
+pword: Lkdmttgnrmlnnrmln2k19
+gway: 210.5.108. 66
+pre-shared key: Lkdmttgnrmlnnrmln2k19
+
+
+heto naman po kay 192xxx
+uname: jeff_192
+pword: Lkdmttgnrmlnnrmln2019
+gway: 210.5.108. 66
+pre-shared key: Lkdmttgnrmlnnrmln2019
+pero naka turned off po ung vpn ngayon under 192xxx
